@@ -9,5 +9,5 @@ Weatherwise is a modern Python-based desktop application that provides real-time
 
 🛠️ Tech Stack
 Language: Python 🐍
-GUI Framework: Tkinter / PyQt / Kivy (Specify the one you're using)
+GUI Framework: Tkinter
 API Integration: OpenWeatherMap API
